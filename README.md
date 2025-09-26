@@ -3,10 +3,10 @@ A machine learning project that classifies tweets into sentiment categories (pos
 
 **Key Features:
 **
-Data Cleaning & Preprocessing: Handle noise in tweets (hashtags, mentions, links, emojis).
-Feature Engineering: Text vectorization using Bag-of-Words, TF-IDF, and Word Embeddings.
-Modeling: Implements baseline ML classifiers and advanced models for comparison.
-Evaluation: Performance measured with accuracy, F1-score, ROC-AUC.
-Visualization: Distribution of sentiments and word clouds for insights.
+Data Cleaning & Preprocessing: Handle noise in tweets (hashtags, mentions, links, emojis).</br>
+Feature Engineering: Text vectorization using Bag-of-Words, TF-IDF, and Word Embeddings.</br>
+Modeling: Implements baseline ML classifiers and advanced models for comparison.</br>
+Evaluation: Performance measured with accuracy, F1-score, ROC-AUC.</br>
+Visualization: Distribution of sentiments and word clouds for insights.</br></br>
 
 **Goal**: To explore natural language processing (NLP) techniques and build a robust sentiment classification system for social media data.
